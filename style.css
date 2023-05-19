@@ -1,0 +1,43 @@
+body{
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px auto;
+}
+#but{
+    position: absolute;
+    left: 40%;
+    top: 60%;
+}
+#tableDispLetters{
+    border-spacing: 20px;
+}
+#uncorrectLtr{
+    font-size: 30px;
+    color: mediumvioletred;
+}
+#final{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium';
+}
+#table2{
+    position: absolute;
+    top: 10%;
+    left: 70%;
+}
+#scores{
+    color: rgb(49, 87, 171);
+}
+#TableLetters{
+    border-spacing: 0px;
+    position: absolute;
+    left: 40%;
+    top: 15%;
+    border-spacing: 35px;
+}
+#vibor{
+    position: absolute;
+    
+}
+h2{
+    color: red;
+}
